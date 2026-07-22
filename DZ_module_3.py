@@ -6,3 +6,4 @@ def get_days_from_today(input_date):
     except (ValueError, TypeError):  
         return ("Неправильний формат дати, введіть дату у форматі РРРР-ММ-ДД") 
   # Example usage
+

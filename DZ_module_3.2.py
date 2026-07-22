@@ -10,3 +10,4 @@ def get_numbers_ticket(min, max, quantity):
         lottery_numbers.add(number)
 
     return sorted(lottery_numbers)
+
