@@ -1,3 +1,4 @@
-print("hello")
-print("hello too")
-print("hello twice")
+import sys
+
+for arg in sys.argv:
+    print(arg)
